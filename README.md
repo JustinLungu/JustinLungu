@@ -21,30 +21,16 @@ Robotics & AI • Perception • 6D Pose Estimation • Embedded & Systems Engin
 </td>
 <td align="center" width="50%">
 
-<img
-  src="https://github-readme-stats-pied-eight-93.vercel.app/api
-    ?username=JustinLungu
-    &show_icons=true
-    &hide_border=true
-    &theme=transparent
-    &rank_icon=github
-    &hide=issues"
-/>
+<img src="https://github-readme-stats-pied-eight-93.vercel.app/api?username=JustinLungu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&hide=issues" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img
-  src="https://github-readme-stats-pied-eight-93.vercel.app/api/top-langs/
-    ?username=JustinLungu
-    &layout=compact
-    &hide_border=true
-    &theme=transparent
-    &langs_count=6"
-/>
+<img src="https://github-readme-stats-pied-eight-93.vercel.app/api/top-langs/?username=JustinLungu&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
 </p>
+
 
 ---
 
