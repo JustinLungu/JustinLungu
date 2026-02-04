@@ -34,7 +34,7 @@ Robotics • Machine Learning • Perception • 6D Pose Estimation • Embedded
 
 ---
 
-### Current Interest
+### What I’m working toward
 
 - Embodied AI and vision-guided robotics  
 - 6D object pose estimation and perception pipelines
@@ -47,7 +47,7 @@ Robotics • Machine Learning • Perception • 6D Pose Estimation • Embedded
 
 ---
 
-### Current Learning Focus
+### Actively learning
 - Cloud Computing (AWS & Azure)
 - DevOps / MLOps
 - LLMs & NLP
