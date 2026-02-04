@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I’m Justin 👋</h1>
+<h1 align="center">Hi, I’m Justin, an AI Robotics Engineer, with a deep passion for space exploration</h1>
 
 <p align="center">
-Robotics & AI • Perception • 6D Pose Estimation • Embedded & Systems Engineering
+Robotics • Machine Learning • Perception • 6D Pose Estimation • Embedded & Systems Engineering
 </p>
 
 <p align="center">
@@ -34,30 +34,37 @@ Robotics & AI • Perception • 6D Pose Estimation • Embedded & Systems Engin
 
 ---
 
-### Current focus
+### Current Interest
 
 - Embodied AI and vision-guided robotics  
-- 6D object pose estimation and perception pipelines  
-- Reliable, reproducible ML systems (sim → real)  
-- Clean C++ / Python engineering for robotics  
+- 6D object pose estimation and perception pipelines
+- Software engineering for Machine Learning systems (data → model → deployment)
+- Reliable, reproducible ML pipelines (sim → real, research → production)
+- Python / C++ engineering for robotics
+- 3D generative AI for geometry reconstruction tasks
+
+
 
 ---
 
-### Selected work
-
-- **FoundationPose – Bachelor Thesis**  
-  6D object pose estimation using AI-generated meshes and FoundationPose  
-
-- **Arduino Robotic Arm (6-DoF)**  
-  Embedded control, kinematics, and motion planning  
-
-- **TinyML Predictive Maintenance**  
-  End-to-end pipeline from data to edge deployment  
+### Current Learning Focus
+- Cloud Computing (AWS & Azure)
+- DevOps / MLOps
+- LLMs & NLP
+- Isaac SIM
 
 ---
 
-### Philosophy
+### Engineering mindset
 
-I care about **systems that work**, not just models that look good in notebooks.  
-Strong foundations, clear abstractions, and reproducible pipelines.
+I value execution over appearances.  
+No matter the starting point, if there’s commitment to learn, there’s a way to get things done.
+
+I focus on:
+- Turning ideas into working systems
+- Making results reproducible and easy to hand over
+- Communicating progress clearly so teams stay aligned
+
+Good engineering, to me, means that what I build doesn’t depend on me being there.
+
 
