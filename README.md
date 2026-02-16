@@ -7,7 +7,6 @@ Robotics • Machine Learning • Perception • 6D Pose Estimation • Embedded
 <p align="center">
 <a href="https://www.boot.dev/u/kalash">Boot.dev</a> ·
 <a href="https://www.linkedin.com/in/justin-lungu-4b744b254/">LinkedIn</a> ·
-<a href="https://github.com/JustinLungu">GitHub</a>
 </p>
 
 ---
